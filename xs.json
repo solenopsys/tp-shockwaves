@@ -1,0 +1,15 @@
+{
+  "format": {
+    "name": "xs-backs",
+    "version": "1.0.0"
+  },
+  "modules": {
+    "platform": [
+      {
+        "directory": "invicta/helm-repository",
+        "git": "https://github.com/solenopsys/converged-microservice-helm-repository-invicta",
+        "load": true
+      }
+    ]
+  }
+}

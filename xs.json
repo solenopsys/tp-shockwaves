@@ -4,10 +4,102 @@
     "version": "1.0.0"
   },
   "modules": {
+    "platform": [
+      {
+        "directory": "solechain",
+        "git": "https://github.com/solenopsys/pms-solechain",
+        "load": true
+      },
+      {
+        "directory": "solechain-spn",
+        "git": "https://github.com/solenopsys/pms-solechain-spn",
+        "load": true
+      },
+      {
+        "directory": "ipfs",
+        "git": "https://github.com/solenopsys/pms-ipfs",
+        "load": true
+      },
+      {
+        "directory": "ipfs-cluster",
+        "git": "https://github.com/solenopsys/pms-ipfs-cluster",
+        "load": true
+      },
+      {
+        "directory": "ipfs-registry",
+        "git": "https://github.com/solenopsys/pms-ipfs-registry",
+        "load": true
+      }
+    ],
     "converged": [
       {
         "directory": "invicta/helm-repository",
-        "git": "https://github.com/solenopsys/converged-microservice-helm-repository-invicta",
+        "git": "https://github.com/solenopsys/cms-helm-repository-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/containers-registry",
+        "git": "https://github.com/solenopsys/cms-containers-registry-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/git",
+        "git": "https://github.com/solenopsys/cms-git-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/ds-dgraph",
+        "git": "https://github.com/solenopsys/cms-ds-dgraph-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/ds-dgraph-http",
+        "git": "https://github.com/solenopsys/cms-ds-dgraph-http-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/hs-postgres",
+        "git": "https://github.com/solenopsys/cms-hs-postgres-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/hs-kubernetes",
+        "git": "https://github.com/solenopsys/cms-hs-kubernetes-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/hs-clickhouse",
+        "git": "https://github.com/solenopsys/cms-hs-clickhouse-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/hs-http",
+        "git": "https://github.com/solenopsys/cms-hs-http-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/helm-lookup",
+        "git": "https://github.com/solenopsys/cms-helm-lookup-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/hs-router",
+        "git": "https://github.com/solenopsys/cms-hs-router-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/ds-postgres",
+        "git": "https://github.com/solenopsys/cms-ds-postgres-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/ds-clickhouse",
+        "git": "https://github.com/solenopsys/cms-ds-clickhouse-invicta",
+        "load": true
+      },
+      {
+        "directory": "invicta/ipfs-revproxy",
+        "git": "https://github.com/solenopsys/cms-ipfs-revproxy-invicta",
         "load": true
       }
     ]

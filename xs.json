@@ -4,13 +4,6 @@
     "version": "1.0.0"
   },
   "groups": {
-    "templates": [
-      {
-        "directory": "tp-backs",
-        "git": "https://github.com/solenopsys/xs-backs-template",
-        "load": true
-      }
-    ],
     "libraries": [
       {
         "directory": "bl-zmq-connector",

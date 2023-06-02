@@ -131,7 +131,7 @@
       },
       {
         "directory": "dp-protonmail-bridge",
-        "repository": "https://github.com/solenopsys/dp-protonmail-bridge.git",
+        "repository": "https://github.com/solenopsys/dp-protonmail-bridge",
         "scopes": []
       },
       {

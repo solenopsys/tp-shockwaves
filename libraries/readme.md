@@ -1,2 +1,2 @@
-# Backend libraries
+# Libraries
 Libraries for the backends.

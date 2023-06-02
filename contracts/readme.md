@@ -1,1 +1,0 @@
-# Colechain smart contracts

@@ -9,7 +9,6 @@ It simple for use and study language and have small footprint (memory usage, app
 - **TypeScript** - follow control in clusters, DAGs, CI/CD, batch processing control.
 - **Python** - use for AI, ML, DA, don't use it for system scripts.
 - **C++/C** - embedded, high performance computing (cuda,opencl),  high performance IO.
-- **Verilog/Chisel** - FPGA, ASIC, etc.
 - **Bash/Sh** - use it for system scripts in containers.
 
 ### Not recommend to use next languages

@@ -8,7 +8,7 @@ It simple for use and study language and have small footprint (memory usage, app
 - **Golang** - main language use it in 90% of cases, any modules, smart contracts.
 - **TypeScript** - follow control in clusters, DAGs, CI/CD, batch processing control.
 - **Python** - use for AI, ML, DA, don't use it for system scripts.
-- **C++/C** - embedded, high performance computing (cuda,opencl),  high performance IO.
+- **C++/C** -  high performance computing (cuda,opencl),  high performance IO.
 - **Bash/Sh** - use it for system scripts in containers.
 
 ### Not recommend to use next languages

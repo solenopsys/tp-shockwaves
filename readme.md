@@ -12,10 +12,8 @@ It simple for use and study language and have small footprint (memory usage, app
 - **Bash/Sh** - use it for system scripts in containers.
 
 ### Not recommend to use next languages
-
 - **JavaPlatform (Java, Scala, Kotlin)**  - use it only for integration with corporate and government systems don't use it
   in Converged Framework Microservices. (big footprint, not effective usage system resources, not usefully for microservices)
-- **Solidity** - use it only for integration Solechain width another blockchains.
 - **Any other exotic languages** - closure, lisp, etc. (small community)
 - **Any stupid languages** - PHP, Ruby, etc. (not effective, not secure, not fast)
 

@@ -10,221 +10,221 @@
       {
         "directory": "bl-zmq-connector",
         "repository": "https://github.com/solenopsys/bl-zmq-connector",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "bl-kubernetes-tools",
         "repository": "https://github.com/solenopsys/bl-kubernetes-tools",
-        "scopes": []
+        "scopes": ["full"]
       }
     ],
     "deployments": [
       {
         "directory": "dp-ds-postgres",
         "repository": "https://github.com/solenopsys/dp-ds-postgres",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-fluentbit",
         "repository": "https://github.com/solenopsys/dp-fluentbit",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-git",
         "repository": "https://github.com/solenopsys/dp-git",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-helm-lookup",
         "repository": "https://github.com/solenopsys/dp-helm-lookup",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ci",
         "repository": "https://github.com/solenopsys/dp-ci",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-containers-registry",
         "repository": "https://github.com/solenopsys/dp-containers-registry",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ds-clickhouse",
         "repository": "https://github.com/solenopsys/dp-ds-clickhouse",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ds-dgraph",
         "repository": "https://github.com/solenopsys/dp-ds-dgraph",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ds-dgraph-http",
         "repository": "https://github.com/solenopsys/dp-ds-dgraph-http",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-helm-repository",
         "repository": "https://github.com/solenopsys/dp-helm-repository",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-hs-clickhouse",
         "repository": "https://github.com/solenopsys/dp-hs-clickhouse",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-hs-kubernetes",
         "repository": "https://github.com/solenopsys/dp-hs-kubernetes",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-hs-postgres",
         "repository": "https://github.com/solenopsys/dp-hs-postgres",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-hs-router",
         "repository": "https://github.com/solenopsys/dp-hs-router",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-installer",
         "repository": "https://github.com/solenopsys/dp-installer",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-interactions",
         "repository": "https://github.com/solenopsys/dp-interactions",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ipfs",
         "repository": "https://github.com/solenopsys/dp-ipfs",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ipfs-cluster",
         "repository": "https://github.com/solenopsys/dp-ipfs-cluster",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ipfs-revproxy",
         "repository": "https://github.com/solenopsys/dp-ipfs-revproxy",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-ipfs-registry",
         "repository": "https://github.com/solenopsys/dp-ipfs-registry",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-keys",
         "repository": "https://github.com/solenopsys/dp-keys",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-pinning",
         "repository": "https://github.com/solenopsys/dp-pinning",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-protonmail-bridge",
         "repository": "https://github.com/solenopsys/dp-protonmail-bridge",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-smtp-server",
         "repository": "https://github.com/solenopsys/dp-smtp-server",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "dp-solechain-spn",
         "repository": "https://github.com/solenopsys/dp-solechain-spn",
-        "scopes": []
+        "scopes": ["full"]
       }
     ],
     "modules": [
       {
         "directory": "ms-solechain",
         "repository": "https://github.com/solenopsys/ms-solechain",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-pinning",
         "repository": "https://github.com/solenopsys/ms-pinning",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-interactions",
         "repository": "https://github.com/solenopsys/ms-interactions",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-keys",
         "repository": "https://github.com/solenopsys/ms-keys",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-installer",
         "repository": "https://github.com/solenopsys/ms-installer",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "repository": "https://github.com/solenopsys/ms-ci",
         "directory": "ms-ci",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "repository": "https://github.com/solenopsys/ms-fluentbit",
         "directory": "ms-fluentbit",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-git",
         "repository": "https://github.com/solenopsys/ms-git",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-ds-dgraph-http",
         "repository": "https://github.com/solenopsys/ms-ds-dgraph-http",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-hs-postgres",
         "repository": "https://github.com/solenopsys/ms-hs-postgres",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-hs-kubernetes",
         "repository": "https://github.com/solenopsys/ms-hs-kubernetes",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-hs-clickhouse",
         "repository": "https://github.com/solenopsys/ms-hs-clickhouse",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-hs-http",
         "repository": "https://github.com/solenopsys/ms-hs-http",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-helm-lookup",
         "repository": "https://github.com/solenopsys/ms-helm-lookup",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-hs-router",
         "repository": "https://github.com/solenopsys/ms-hs-router",
-        "scopes": []
+        "scopes": ["full"]
       },
       {
         "directory": "ms-ipfs-revproxy",
         "repository": "https://github.com/solenopsys/ms-ipfs-revproxy",
-        "scopes": []
+        "scopes": ["full"]
       }
     ]
   }

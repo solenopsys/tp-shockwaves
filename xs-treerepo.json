@@ -8,223 +8,351 @@
     ],
     "libraries": [
       {
+        "name": "bl-zmq-connector",
         "directory": "bl-zmq-connector",
         "repository": "https://github.com/solenopsys/bl-zmq-connector",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "bl-kubernetes-tools",
         "directory": "bl-kubernetes-tools",
         "repository": "https://github.com/solenopsys/bl-kubernetes-tools",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       }
     ],
     "deployments": [
       {
+        "name": "dp-ds-postgres",
         "directory": "dp-ds-postgres",
         "repository": "https://github.com/solenopsys/dp-ds-postgres",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-fluentbit",
         "directory": "dp-fluentbit",
         "repository": "https://github.com/solenopsys/dp-fluentbit",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-git",
         "directory": "dp-git",
         "repository": "https://github.com/solenopsys/dp-git",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-helm-lookup",
         "directory": "dp-helm-lookup",
         "repository": "https://github.com/solenopsys/dp-helm-lookup",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name":  "dp-ci",
         "directory": "dp-ci",
         "repository": "https://github.com/solenopsys/dp-ci",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-containers-registry",
         "directory": "dp-containers-registry",
         "repository": "https://github.com/solenopsys/dp-containers-registry",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ds-clickhouse",
         "directory": "dp-ds-clickhouse",
         "repository": "https://github.com/solenopsys/dp-ds-clickhouse",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ds-dgraph",
         "directory": "dp-ds-dgraph",
         "repository": "https://github.com/solenopsys/dp-ds-dgraph",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ds-dgraph-http",
         "directory": "dp-ds-dgraph-http",
         "repository": "https://github.com/solenopsys/dp-ds-dgraph-http",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-helm-repository",
         "directory": "dp-helm-repository",
         "repository": "https://github.com/solenopsys/dp-helm-repository",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-hs-clickhouse",
         "directory": "dp-hs-clickhouse",
         "repository": "https://github.com/solenopsys/dp-hs-clickhouse",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-hs-kubernetes",
         "directory": "dp-hs-kubernetes",
         "repository": "https://github.com/solenopsys/dp-hs-kubernetes",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-hs-postgres",
         "directory": "dp-hs-postgres",
         "repository": "https://github.com/solenopsys/dp-hs-postgres",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-hs-router",
         "directory": "dp-hs-router",
         "repository": "https://github.com/solenopsys/dp-hs-router",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-installer",
         "directory": "dp-installer",
         "repository": "https://github.com/solenopsys/dp-installer",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-interactions",
         "directory": "dp-interactions",
         "repository": "https://github.com/solenopsys/dp-interactions",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ipfs",
         "directory": "dp-ipfs",
         "repository": "https://github.com/solenopsys/dp-ipfs",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name":  "dp-ipfs-cluster",
         "directory": "dp-ipfs-cluster",
         "repository": "https://github.com/solenopsys/dp-ipfs-cluster",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ipfs-revproxy",
         "directory": "dp-ipfs-revproxy",
         "repository": "https://github.com/solenopsys/dp-ipfs-revproxy",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-ipfs-registry",
         "directory": "dp-ipfs-registry",
         "repository": "https://github.com/solenopsys/dp-ipfs-registry",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-keys",
         "directory": "dp-keys",
         "repository": "https://github.com/solenopsys/dp-keys",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-pinning",
         "directory": "dp-pinning",
         "repository": "https://github.com/solenopsys/dp-pinning",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-protonmail-bridge",
         "directory": "dp-protonmail-bridge",
         "repository": "https://github.com/solenopsys/dp-protonmail-bridge",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-smtp-server",
         "directory": "dp-smtp-server",
         "repository": "https://github.com/solenopsys/dp-smtp-server",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "dp-solechain-spn",
         "directory": "dp-solechain-spn",
         "repository": "https://github.com/solenopsys/dp-solechain-spn",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       }
     ],
     "modules": [
       {
+        "name": "ms-solechain",
         "directory": "ms-solechain",
         "repository": "https://github.com/solenopsys/ms-solechain",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-pinning",
         "directory": "ms-pinning",
         "repository": "https://github.com/solenopsys/ms-pinning",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
-      {
+      {"name": "ms-interactions",
         "directory": "ms-interactions",
         "repository": "https://github.com/solenopsys/ms-interactions",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-keys",
         "directory": "ms-keys",
         "repository": "https://github.com/solenopsys/ms-keys",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-installer",
         "directory": "ms-installer",
         "repository": "https://github.com/solenopsys/ms-installer",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-ci",
         "repository": "https://github.com/solenopsys/ms-ci",
         "directory": "ms-ci",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-fluentbit",
         "repository": "https://github.com/solenopsys/ms-fluentbit",
         "directory": "ms-fluentbit",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-git",
         "directory": "ms-git",
         "repository": "https://github.com/solenopsys/ms-git",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-ds-dgraph-http",
         "directory": "ms-ds-dgraph-http",
         "repository": "https://github.com/solenopsys/ms-ds-dgraph-http",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name":  "ms-hs-postgres",
         "directory": "ms-hs-postgres",
         "repository": "https://github.com/solenopsys/ms-hs-postgres",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name":  "ms-hs-kubernetes",
         "directory": "ms-hs-kubernetes",
         "repository": "https://github.com/solenopsys/ms-hs-kubernetes",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-hs-clickhouse",
         "directory": "ms-hs-clickhouse",
         "repository": "https://github.com/solenopsys/ms-hs-clickhouse",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name":  "ms-hs-http",
         "directory": "ms-hs-http",
         "repository": "https://github.com/solenopsys/ms-hs-http",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-helm-lookup",
         "directory": "ms-helm-lookup",
         "repository": "https://github.com/solenopsys/ms-helm-lookup",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-hs-router",
         "directory": "ms-hs-router",
         "repository": "https://github.com/solenopsys/ms-hs-router",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       },
       {
+        "name": "ms-ipfs-revproxy",
         "directory": "ms-ipfs-revproxy",
         "repository": "https://github.com/solenopsys/ms-ipfs-revproxy",
-        "tags": ["full"]
+        "tags": [
+          "full"
+        ]
       }
     ]
   }

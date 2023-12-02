@@ -5,11 +5,11 @@ It simple for use and study language and have small footprint (memory usage, app
 
 ### Main programming languages
 
-- **Golang** - main language use it in 90% of cases, any modules, smart contracts.
+- **Golang** - main language use it in 90% of cases, any modules.
 - **TypeScript** - follow control in clusters, DAGs, CI/CD, batch processing control.
 - **Python** - use for AI, ML, DA, don't use it for system scripts.
+- **Zig** - primary build tool and integration language for microkernels
 - **C++/C** -  high performance computing (cuda,opencl),  high performance IO.
-- **Bash/Sh** - use it for system scripts in containers.
 
 ### Not recommend to use next languages
 - **JavaPlatform (Java, Scala, Kotlin)**  - use it only for integration with corporate and government systems don't use it

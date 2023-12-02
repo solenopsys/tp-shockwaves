@@ -1,4 +1,4 @@
-# Solenopsys backend monorepo
+# Solenopsys ShockWaves tree repo
 
 You can use any lang languages for microservices, but we recommend to use **GoLang** as main language.
 It simple for use and study language and have small footprint (memory usage, app size, easy use concurrency)
